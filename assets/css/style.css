@@ -305,16 +305,16 @@ html, body {
 } */
 
 
- <!--.section-services:before {
+ /*.section-services:before {
     content: '';
-    background: url(../img/bg.jpg) no-repeat fixed center; /* no-repeat fixed center / cover;*/
+    background: url(../img/water.jpg) no-repeat fixed center; /* no-repeat fixed center / cover;*/
     /* width: 100%; */
     /* height: 400px;  */
     /* position: absolute; */
     /* margin-top: 2cm; */
     /* left: 0; */
     /* top: 0; */
-/* }  -->
+/* }  */
 
 
 /* .overlay:after {
