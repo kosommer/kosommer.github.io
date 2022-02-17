@@ -304,8 +304,8 @@ html, body {
     padding-top: 220px;
 } */
 
-<!--
-/* .section-services:before {
+
+ <!--.section-services:before {
     content: '';
     background: url(../img/bg.jpg) no-repeat fixed center; /* no-repeat fixed center / cover;*/
     /* width: 100%; */
@@ -314,8 +314,8 @@ html, body {
     /* margin-top: 2cm; */
     /* left: 0; */
     /* top: 0; */
-/* }  */
--->
+/* }  -->
+
 
 /* .overlay:after {
     content: '';
